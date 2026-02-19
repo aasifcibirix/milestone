@@ -11,8 +11,7 @@ This project is a fresh, original Next.js implementation that mirrors the **info
 ```bash
 npm install
 npm run dev
-npm run build
-npm start
+npm start # now auto-builds first via `prestart`
 ```
 
 ## Route Map
